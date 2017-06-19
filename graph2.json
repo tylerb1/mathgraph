@@ -1,1 +1,978 @@
-{"nodes": [{"group": 1, "name": "Basic operations (counting, place values, addition, subtraction, multiplication, division)"}, {"group": 1, "name": "Negative numbers and absolute value (no variables)"}, {"group": 1, "name": "Factors, divisibility rules, GCF/LCM (no variables)"}, {"group": 1, "name": "Decimals, fractions, ratios, and proportions (e.g. units, percentages)"}, {"group": 1, "name": "Exponents and roots (no variables)"}, {"group": 1, "name": "Order of operations"}, {"group": 1, "name": "Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties"}, {"group": 1, "name": "Number types (e.g. rational, irrational, complex)"}, {"group": 1, "name": "Scientific notation"}, {"group": 1, "name": "Other pre-algebra (e.g. prime factorization)"}, {"group": 2, "name": "Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)"}, {"group": 2, "name": "Variables, linear expressions, and solving linear equations"}, {"group": 2, "name": "Graphs of lines (e.g. slope, intercepts, y=mx+b)"}, {"group": 2, "name": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)"}, {"group": 2, "name": "Inequalities (with variables)"}, {"group": 2, "name": "Absolute value (with variables)"}, {"group": 2, "name": "Systems of linear equations"}, {"group": 2, "name": "Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)"}, {"group": 2, "name": "Logarithms, radicals, and exponential functions (with variables)"}, {"group": 2, "name": "Quadratic expressions, equations, and graphs"}, {"group": 2, "name": "Higher polynomial expressions, equations, and graphs"}, {"group": 2, "name": "Rational expressions, equations, and graphs"}, {"group": 2, "name": "Circle, ellipse, and hyperbola equations and graphs"}, {"group": 2, "name": "Function graph transformations (e.g. translating, reflecting, scaling)"}, {"group": 2, "name": "Polar, parametric, and complex (a+bi) coordinate systems"}, {"group": 2, "name": "Sequences and series"}, {"group": 2, "name": "Vectors and matrix basics"}, {"group": 2, "name": "Other algebra"}, {"group": 3, "name": "Names and properties of figures (e.g. perimeter, area, convex vs. concave)"}, {"group": 3, "name": "Similarity, scaling, and shape transformations"}, {"group": 3, "name": "Congruence"}, {"group": 3, "name": "Logic and proofs"}, {"group": 3, "name": "Lines and angles"}, {"group": 3, "name": "Triangles"}, {"group": 3, "name": "Quadrilaterals"}, {"group": 3, "name": "Regular polygons"}, {"group": 3, "name": "Circles"}, {"group": 3, "name": "3D solids and polyhedra"}, {"group": 3, "name": "Other geometry"}, {"group": 4, "name": "Basic trigonometric functions and ratios"}, {"group": 4, "name": "Trigonometric function graphs"}, {"group": 4, "name": "Trigonometric equations and identities"}, {"group": 4, "name": "Inverse trigonometric functions"}, {"group": 4, "name": "Law of sines/cosines"}, {"group": 4, "name": "Other trigonometry"}, {"group": 5, "name": "Limits and continuity"}, {"group": 5, "name": "Derivatives"}, {"group": 5, "name": "Extrema and critical points"}, {"group": 5, "name": "Approximating area under curves (e.g. trapezoids, Simpson's rule)"}, {"group": 5, "name": "Antiderivatives and integrals"}, {"group": 5, "name": "Solids and surfaces of integration (e.g. disks, washers)"}, {"group": 5, "name": "Fundamental theorem of calculus I and II"}, {"group": 5, "name": "Mean value theorem, average change, and secants"}, {"group": 5, "name": "Basic differential equation behavior (slope fields)"}, {"group": 5, "name": "Euler's method"}, {"group": 5, "name": "Other calculus"}, {"group": 6, "name": "Measures of center and spread"}, {"group": 6, "name": "Interpreting/creating plots, graphs, and tables"}, {"group": 6, "name": "Permutations, combinations, probability, and expectation"}, {"group": 6, "name": "Probability distributions"}, {"group": 6, "name": "Linear regression and correlation"}, {"group": 6, "name": "Hypothesis testing and confidence intervals"}, {"group": 6, "name": "Sampling and surveying"}, {"group": 6, "name": "Other statistics"}], "links": [{"source": "Basic operations (counting, place values, addition, subtraction, multiplication, division)", "target": "Negative numbers and absolute value (no variables)"}, {"source": "Basic operations (counting, place values, addition, subtraction, multiplication, division)", "target": "Factors, divisibility rules, GCF/LCM (no variables)"}, {"source": "Basic operations (counting, place values, addition, subtraction, multiplication, division)", "target": "Decimals, fractions, ratios, and proportions (e.g. units, percentages)"}, {"source": "Factors, divisibility rules, GCF/LCM (no variables)", "target": "Decimals, fractions, ratios, and proportions (e.g. units, percentages)"}, {"source": "Basic operations (counting, place values, addition, subtraction, multiplication, division)", "target": "Exponents and roots (no variables)"}, {"source": "Factors, divisibility rules, GCF/LCM (no variables)", "target": "Exponents and roots (no variables)"}, {"source": "Basic operations (counting, place values, addition, subtraction, multiplication, division)", "target": "Order of operations"}, {"source": "Decimals, fractions, ratios, and proportions (e.g. units, percentages)", "target": "Order of operations"}, {"source": "Exponents and roots (no variables)", "target": "Order of operations"}, {"source": "Basic operations (counting, place values, addition, subtraction, multiplication, division)", "target": "Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties"}, {"source": "Order of operations", "target": "Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties"}, {"source": "Basic operations (counting, place values, addition, subtraction, multiplication, division)", "target": "Number types (e.g. rational, irrational, complex)"}, {"source": "Negative numbers and absolute value (no variables)", "target": "Number types (e.g. rational, irrational, complex)"}, {"source": "Decimals, fractions, ratios, and proportions (e.g. units, percentages)", "target": "Number types (e.g. rational, irrational, complex)"}, {"source": "Exponents and roots (no variables)", "target": "Number types (e.g. rational, irrational, complex)"}, {"source": "Basic operations (counting, place values, addition, subtraction, multiplication, division)", "target": "Scientific notation"}, {"source": "Negative numbers and absolute value (no variables)", "target": "Scientific notation"}, {"source": "Decimals, fractions, ratios, and proportions (e.g. units, percentages)", "target": "Scientific notation"}, {"source": "Exponents and roots (no variables)", "target": "Scientific notation"}, {"source": "Order of operations", "target": "Scientific notation"}, {"source": "Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties", "target": "Scientific notation"}, {"source": "Basic operations (counting, place values, addition, subtraction, multiplication, division)", "target": "Other pre-algebra (e.g. prime factorization)"}, {"source": "Negative numbers and absolute value (no variables)", "target": "Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)"}, {"source": "Decimals, fractions, ratios, and proportions (e.g. units, percentages)", "target": "Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)"}, {"source": "Exponents and roots (no variables)", "target": "Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)"}, {"source": "Negative numbers and absolute value (no variables)", "target": "Variables, linear expressions, and solving linear equations"}, {"source": "Decimals, fractions, ratios, and proportions (e.g. units, percentages)", "target": "Variables, linear expressions, and solving linear equations"}, {"source": "Order of operations", "target": "Variables, linear expressions, and solving linear equations"}, {"source": "Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties", "target": "Variables, linear expressions, and solving linear equations"}, {"source": "Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)", "target": "Graphs of lines (e.g. slope, intercepts, y=mx+b)"}, {"source": "Variables, linear expressions, and solving linear equations", "target": "Graphs of lines (e.g. slope, intercepts, y=mx+b)"}, {"source": "Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)", "target": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)"}, {"source": "Variables, linear expressions, and solving linear equations", "target": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)"}, {"source": "Variables, linear expressions, and solving linear equations", "target": "Inequalities (with variables)"}, {"source": "Graphs of lines (e.g. slope, intercepts, y=mx+b)", "target": "Inequalities (with variables)"}, {"source": "Variables, linear expressions, and solving linear equations", "target": "Absolute value (with variables)"}, {"source": "Graphs of lines (e.g. slope, intercepts, y=mx+b)", "target": "Absolute value (with variables)"}, {"source": "Inequalities (with variables)", "target": "Absolute value (with variables)"}, {"source": "Variables, linear expressions, and solving linear equations", "target": "Systems of linear equations"}, {"source": "Graphs of lines (e.g. slope, intercepts, y=mx+b)", "target": "Systems of linear equations"}, {"source": "Exponents and roots (no variables)", "target": "Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)"}, {"source": "Variables, linear expressions, and solving linear equations", "target": "Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Logarithms, radicals, and exponential functions (with variables)"}, {"source": "Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)", "target": "Logarithms, radicals, and exponential functions (with variables)"}, {"source": "Function graph transformations (e.g. translating, reflecting, scaling)", "target": "Logarithms, radicals, and exponential functions (with variables)"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Quadratic expressions, equations, and graphs"}, {"source": "Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)", "target": "Quadratic expressions, equations, and graphs"}, {"source": "Function graph transformations (e.g. translating, reflecting, scaling)", "target": "Quadratic expressions, equations, and graphs"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Higher polynomial expressions, equations, and graphs"}, {"source": "Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)", "target": "Higher polynomial expressions, equations, and graphs"}, {"source": "Quadratic expressions, equations, and graphs", "target": "Higher polynomial expressions, equations, and graphs"}, {"source": "Function graph transformations (e.g. translating, reflecting, scaling)", "target": "Higher polynomial expressions, equations, and graphs"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Rational expressions, equations, and graphs"}, {"source": "Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)", "target": "Rational expressions, equations, and graphs"}, {"source": "Quadratic expressions, equations, and graphs", "target": "Rational expressions, equations, and graphs"}, {"source": "Higher polynomial expressions, equations, and graphs", "target": "Rational expressions, equations, and graphs"}, {"source": "Function graph transformations (e.g. translating, reflecting, scaling)", "target": "Rational expressions, equations, and graphs"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Circle, ellipse, and hyperbola equations and graphs"}, {"source": "Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)", "target": "Circle, ellipse, and hyperbola equations and graphs"}, {"source": "Higher polynomial expressions, equations, and graphs", "target": "Circle, ellipse, and hyperbola equations and graphs"}, {"source": "Function graph transformations (e.g. translating, reflecting, scaling)", "target": "Circle, ellipse, and hyperbola equations and graphs"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Function graph transformations (e.g. translating, reflecting, scaling)"}, {"source": "Number types (e.g. rational, irrational, complex)", "target": "Polar, parametric, and complex (a+bi) coordinate systems"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Polar, parametric, and complex (a+bi) coordinate systems"}, {"source": "Systems of linear equations", "target": "Polar, parametric, and complex (a+bi) coordinate systems"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Sequences and series"}, {"source": "Logarithms, radicals, and exponential functions (with variables)", "target": "Sequences and series"}, {"source": "Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)", "target": "Vectors and matrix basics"}, {"source": "Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)", "target": "Other algebra"}, {"source": "Variables, linear expressions, and solving linear equations", "target": "Other algebra"}, {"source": "Basic operations (counting, place values, addition, subtraction, multiplication, division)", "target": "Names and properties of figures (e.g. perimeter, area, convex vs. concave)"}, {"source": "Factors, divisibility rules, GCF/LCM (no variables)", "target": "Similarity, scaling, and shape transformations"}, {"source": "Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)", "target": "Similarity, scaling, and shape transformations"}, {"source": "Names and properties of figures (e.g. perimeter, area, convex vs. concave)", "target": "Similarity, scaling, and shape transformations"}, {"source": "Names and properties of figures (e.g. perimeter, area, convex vs. concave)", "target": "Congruence"}, {"source": "Variables, linear expressions, and solving linear equations", "target": "Logic and proofs"}, {"source": "Names and properties of figures (e.g. perimeter, area, convex vs. concave)", "target": "Lines and angles"}, {"source": "Similarity, scaling, and shape transformations", "target": "Lines and angles"}, {"source": "Congruence", "target": "Lines and angles"}, {"source": "Logic and proofs", "target": "Lines and angles"}, {"source": "Names and properties of figures (e.g. perimeter, area, convex vs. concave)", "target": "Triangles"}, {"source": "Similarity, scaling, and shape transformations", "target": "Triangles"}, {"source": "Congruence", "target": "Triangles"}, {"source": "Logic and proofs", "target": "Triangles"}, {"source": "Names and properties of figures (e.g. perimeter, area, convex vs. concave)", "target": "Quadrilaterals"}, {"source": "Similarity, scaling, and shape transformations", "target": "Quadrilaterals"}, {"source": "Congruence", "target": "Quadrilaterals"}, {"source": "Logic and proofs", "target": "Quadrilaterals"}, {"source": "Names and properties of figures (e.g. perimeter, area, convex vs. concave)", "target": "Regular polygons"}, {"source": "Similarity, scaling, and shape transformations", "target": "Regular polygons"}, {"source": "Congruence", "target": "Regular polygons"}, {"source": "Logic and proofs", "target": "Regular polygons"}, {"source": "Names and properties of figures (e.g. perimeter, area, convex vs. concave)", "target": "Circles"}, {"source": "Similarity, scaling, and shape transformations", "target": "Circles"}, {"source": "Congruence", "target": "Circles"}, {"source": "Logic and proofs", "target": "Circles"}, {"source": "Names and properties of figures (e.g. perimeter, area, convex vs. concave)", "target": "3D solids and polyhedra"}, {"source": "Similarity, scaling, and shape transformations", "target": "3D solids and polyhedra"}, {"source": "Congruence", "target": "3D solids and polyhedra"}, {"source": "Logic and proofs", "target": "3D solids and polyhedra"}, {"source": "Names and properties of figures (e.g. perimeter, area, convex vs. concave)", "target": "Other geometry"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Basic trigonometric functions and ratios"}, {"source": "Lines and angles", "target": "Basic trigonometric functions and ratios"}, {"source": "Triangles", "target": "Basic trigonometric functions and ratios"}, {"source": "Circles", "target": "Basic trigonometric functions and ratios"}, {"source": "Graphs of lines (e.g. slope, intercepts, y=mx+b)", "target": "Trigonometric function graphs"}, {"source": "Function graph transformations (e.g. translating, reflecting, scaling)", "target": "Trigonometric function graphs"}, {"source": "Basic trigonometric functions and ratios", "target": "Trigonometric function graphs"}, {"source": "Rational expressions, equations, and graphs", "target": "Trigonometric equations and identities"}, {"source": "Basic trigonometric functions and ratios", "target": "Trigonometric equations and identities"}, {"source": "Basic trigonometric functions and ratios", "target": "Inverse trigonometric functions"}, {"source": "Triangles", "target": "Law of sines/cosines"}, {"source": "Basic trigonometric functions and ratios", "target": "Law of sines/cosines"}, {"source": "Basic trigonometric functions and ratios", "target": "Other trigonometry"}, {"source": "Rational expressions, equations, and graphs", "target": "Limits and continuity"}, {"source": "Basic trigonometric functions and ratios", "target": "Limits and continuity"}, {"source": "Inverse trigonometric functions", "target": "Limits and continuity"}, {"source": "Limits and continuity", "target": "Derivatives"}, {"source": "Derivatives", "target": "Extrema and critical points"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Approximating area under curves (e.g. trapezoids, Simpson's rule)"}, {"source": "Sequences and series", "target": "Approximating area under curves (e.g. trapezoids, Simpson's rule)"}, {"source": "Quadrilaterals", "target": "Approximating area under curves (e.g. trapezoids, Simpson's rule)"}, {"source": "Derivatives", "target": "Antiderivatives and integrals"}, {"source": "Approximating area under curves (e.g. trapezoids, Simpson's rule)", "target": "Antiderivatives and integrals"}, {"source": "Lines and angles", "target": "Solids and surfaces of integration (e.g. disks, washers)"}, {"source": "Triangles", "target": "Solids and surfaces of integration (e.g. disks, washers)"}, {"source": "Quadrilaterals", "target": "Solids and surfaces of integration (e.g. disks, washers)"}, {"source": "Circles", "target": "Solids and surfaces of integration (e.g. disks, washers)"}, {"source": "3D solids and polyhedra", "target": "Solids and surfaces of integration (e.g. disks, washers)"}, {"source": "Antiderivatives and integrals", "target": "Solids and surfaces of integration (e.g. disks, washers)"}, {"source": "Antiderivatives and integrals", "target": "Fundamental theorem of calculus I and II"}, {"source": "Extrema and critical points", "target": "Mean value theorem, average change, and secants"}, {"source": "Antiderivatives and integrals", "target": "Basic differential equation behavior (slope fields)"}, {"source": "Sequences and series", "target": "Euler's method"}, {"source": "Basic differential equation behavior (slope fields)", "target": "Euler's method"}, {"source": "Antiderivatives and integrals", "target": "Other calculus"}, {"source": "Decimals, fractions, ratios, and proportions (e.g. units, percentages)", "target": "Measures of center and spread"}, {"source": "Measures of center and spread", "target": "Interpreting/creating plots, graphs, and tables"}, {"source": "Variables, linear expressions, and solving linear equations", "target": "Permutations, combinations, probability, and expectation"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Probability distributions"}, {"source": "Permutations, combinations, probability, and expectation", "target": "Probability distributions"}, {"source": "Graphs of lines (e.g. slope, intercepts, y=mx+b)", "target": "Linear regression and correlation"}, {"source": "Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)", "target": "Linear regression and correlation"}, {"source": "Interpreting/creating plots, graphs, and tables", "target": "Linear regression and correlation"}, {"source": "Probability distributions", "target": "Hypothesis testing and confidence intervals"}, {"source": "Basic operations (counting, place values, addition, subtraction, multiplication, division)", "target": "Sampling and surveying"}, {"source": "Measures of center and spread", "target": "Other statistics"}]}
+{  
+   "nodes":[  
+      {  
+         "group":1,
+         "name":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "x":509.1,
+         "y":953.9
+      },
+      {  
+         "group":1,
+         "name":"Negative numbers and absolute value (no variables)",
+         "x":495.3,
+         "y":876.4
+      },
+      {  
+         "group":1,
+         "name":"Factors, divisibility rules, GCF/LCM (no variables)",
+         "x":951.3,
+         "y":936.3
+      },
+      {  
+         "group":1,
+         "name":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "x":934.4,
+         "y":866.6
+      },
+      {  
+         "group":1,
+         "name":"Exponents and roots (no variables)",
+         "x":869.6,
+         "y":906.8
+      },
+      {  
+         "group":1,
+         "name":"Order of operations",
+         "x":903.1,
+         "y":790.5
+      },
+      {  
+         "group":1,
+         "name":"Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties",
+         "x":855.3,
+         "y":747.4
+      },
+      {  
+         "group":1,
+         "name":"Number types (e.g. rational, irrational, complex)",
+         "x":302.3,
+         "y":780.1
+      },
+      {  
+         "group":1,
+         "name":"Scientific notation",
+         "x":321.3,
+         "y":718.8
+      },
+      {  
+         "group":1,
+         "name":"Other pre-algebra (e.g. prime factorization)",
+         "x":194.9,
+         "y":918.5
+      },
+      {  
+         "group":2,
+         "name":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)",
+         "x":737.7,
+         "y":653.0
+      },
+      {  
+         "group":2,
+         "name":"Variables, linear expressions, and solving linear equations",
+         "x":534.1,
+         "y":670.7
+      },
+      {  
+         "group":2,
+         "name":"Graphs of lines (e.g. slope, intercepts, y=mx+b)",
+         "x":331.4,
+         "y":617.8
+      },
+      {  
+         "group":2,
+         "name":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "x":497.5,
+         "y":502.0
+      },
+      {  
+         "group":2,
+         "name":"Inequalities (with variables)",
+         "x":679.6,
+         "y":472.7
+      },
+      {  
+         "group":2,
+         "name":"Absolute value (with variables)",
+         "x":677.1,
+         "y":442.0
+      },
+      {  
+         "group":2,
+         "name":"Systems of linear equations",
+         "x":483.7,
+         "y":588.4
+      },
+      {  
+         "group":2,
+         "name":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "x":617.4,
+         "y":617.3
+      },
+      {  
+         "group":2,
+         "name":"Logarithms, radicals, and exponential functions (with variables)",
+         "x":332.5,
+         "y":329.2
+      },
+      {  
+         "group":2,
+         "name":"Quadratic expressions, equations, and graphs",
+         "x":670.4,
+         "y":389.1
+      },
+      {  
+         "group":2,
+         "name":"Higher polynomial expressions, equations, and graphs",
+         "x":571.7,
+         "y":358.8
+      },
+      {  
+         "group":2,
+         "name":"Rational expressions, equations, and graphs",
+         "x":456.1,
+         "y":266.8
+      },
+      {  
+         "group":2,
+         "name":"Circle, ellipse, and hyperbola equations and graphs",
+         "x":662.9,
+         "y":303.6
+      },
+      {  
+         "group":2,
+         "name":"Function graph transformations (e.g. translating, reflecting, scaling)",
+         "x":349.5,
+         "y":424.5
+      },
+      {  
+         "group":2,
+         "name":"Polar, parametric, and complex (a+bi) coordinate systems",
+         "x":293.7,
+         "y":477.6
+      },
+      {  
+         "group":2,
+         "name":"Sequences and series",
+         "x":289.8,
+         "y":228.2
+      },
+      {  
+         "group":2,
+         "name":"Vectors and matrix basics",
+         "x":659.5,
+         "y":564.6
+      },
+      {  
+         "group":2,
+         "name":"Other algebra",
+         "x":693.6,
+         "y":638.9
+      },
+      {  
+         "group":3,
+         "name":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "x":926.1,
+         "y":622.7
+      },
+      {  
+         "group":3,
+         "name":"Similarity, scaling, and shape transformations",
+         "x":1076.6,
+         "y":560.1
+      },
+      {  
+         "group":3,
+         "name":"Congruence",
+         "x":847.8,
+         "y":473.8
+      },
+      {  
+         "group":3,
+         "name":"Logic and proofs",
+         "x":1159.7,
+         "y":517.0
+      },
+      {  
+         "group":3,
+         "name":"Lines and angles",
+         "x":953.2,
+         "y":320.0
+      },
+      {  
+         "group":3,
+         "name":"Triangles",
+         "x":1003.3,
+         "y":294.9
+      },
+      {  
+         "group":3,
+         "name":"Quadrilaterals",
+         "x":1086.6,
+         "y":299.6
+      },
+      {  
+         "group":3,
+         "name":"Regular polygons",
+         "x":1211.7,
+         "y":434.4
+      },
+      {  
+         "group":3,
+         "name":"Circles",
+         "x":895.8,
+         "y":348.0
+      },
+      {  
+         "group":3,
+         "name":"3D solids and polyhedra",
+         "x":1158.7,
+         "y":320.7
+      },
+      {  
+         "group":3,
+         "name":"Other geometry",
+         "x":815.9,
+         "y":570.5
+      },
+      {  
+         "group":4,
+         "name":"Basic trigonometric functions and ratios",
+         "x":749.5,
+         "y":264.2
+      },
+      {  
+         "group":4,
+         "name":"Trigonometric function graphs",
+         "x":645.4,
+         "y":227.1
+      },
+      {  
+         "group":4,
+         "name":"Trigonometric equations and identities",
+         "x":605.0,
+         "y":179.1
+      },
+      {  
+         "group":4,
+         "name":"Inverse trigonometric functions",
+         "x":457.4,
+         "y":231.2
+      },
+      {  
+         "group":4,
+         "name":"Law of sines/cosines",
+         "x":850.6,
+         "y":190.8
+      },
+      {  
+         "group":4,
+         "name":"Other trigonometry",
+         "x":802.3,
+         "y":244.1
+      },
+      {  
+         "group":5,
+         "name":"Limits and continuity",
+         "x":312.7,
+         "y":138.2
+      },
+      {  
+         "group":5,
+         "name":"Derivatives",
+         "x":212.1,
+         "y":102.2
+      },
+      {  
+         "group":5,
+         "name":"Extrema and critical points",
+         "x":142.3,
+         "y":55.0
+      },
+      {  
+         "group":5,
+         "name":"Approximating area under curves (e.g. trapezoids, Simpson's rule)",
+         "x":585.4,
+         "y":139.1
+      },
+      {  
+         "group":5,
+         "name":"Antiderivatives and integrals",
+         "x":628.1,
+         "y":106.1
+      },
+      {  
+         "group":5,
+         "name":"Solids and surfaces of integration (e.g. disks, washers)",
+         "x":1006.4,
+         "y":72.2
+      },
+      {  
+         "group":5,
+         "name":"Fundamental theorem of calculus I and II",
+         "x":402.8,
+         "y":56.4
+      },
+      {  
+         "group":5,
+         "name":"Mean value theorem, average change, and secants",
+         "x":107.4,
+         "y":12.0
+      },
+      {  
+         "group":5,
+         "name":"Basic differential equation behavior (slope fields)",
+         "x":600.2,
+         "y":42.1
+      },
+      {  
+         "group":5,
+         "name":"Euler's method",
+         "x":308.1,
+         "y":29.8
+      },
+      {  
+         "group":5,
+         "name":"Other calculus",
+         "x":532.2,
+         "y":75.8
+      },
+      {  
+         "group":6,
+         "name":"Measures of center and spread",
+         "x":64.5,
+         "y":613.2
+      },
+      {  
+         "group":6,
+         "name":"Interpreting/creating plots, graphs, and tables",
+         "x":33.2,
+         "y":546.5
+      },
+      {  
+         "group":6,
+         "name":"Permutations, combinations, probability, and expectation",
+         "x":63.2,
+         "y":434.0
+      },
+      {  
+         "group":6,
+         "name":"Probability distributions",
+         "x":123.9,
+         "y":392.8
+      },
+      {  
+         "group":6,
+         "name":"Linear regression and correlation",
+         "x":14.0,
+         "y":517.1
+      },
+      {  
+         "group":6,
+         "name":"Hypothesis testing and confidence intervals",
+         "x":95.3,
+         "y":347.5
+      },
+      {  
+         "group":6,
+         "name":"Sampling and surveying",
+         "x":39.7,
+         "y":738.2
+      },
+      {  
+         "group":6,
+         "name":"Other statistics",
+         "x":156.8,
+         "y":590.6
+      }
+   ],
+   "links":[  
+      {  
+         "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "target":"Negative numbers and absolute value (no variables)"
+      },
+      {  
+         "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "target":"Factors, divisibility rules, GCF/LCM (no variables)"
+      },
+      {  
+         "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "target":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)"
+      },
+      {  
+         "source":"Factors, divisibility rules, GCF/LCM (no variables)",
+         "target":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)"
+      },
+      {  
+         "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "target":"Exponents and roots (no variables)"
+      },
+      {  
+         "source":"Factors, divisibility rules, GCF/LCM (no variables)",
+         "target":"Exponents and roots (no variables)"
+      },
+      {  
+         "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "target":"Order of operations"
+      },
+      {  
+         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "target":"Order of operations"
+      },
+      {  
+         "source":"Exponents and roots (no variables)",
+         "target":"Order of operations"
+      },
+      {  
+         "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "target":"Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties"
+      },
+      {  
+         "source":"Order of operations",
+         "target":"Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties"
+      },
+      {  
+         "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "target":"Number types (e.g. rational, irrational, complex)"
+      },
+      {  
+         "source":"Negative numbers and absolute value (no variables)",
+         "target":"Number types (e.g. rational, irrational, complex)"
+      },
+      {  
+         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "target":"Number types (e.g. rational, irrational, complex)"
+      },
+      {  
+         "source":"Exponents and roots (no variables)",
+         "target":"Number types (e.g. rational, irrational, complex)"
+      },
+      {  
+         "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "target":"Scientific notation"
+      },
+      {  
+         "source":"Negative numbers and absolute value (no variables)",
+         "target":"Scientific notation"
+      },
+      {  
+         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "target":"Scientific notation"
+      },
+      {  
+         "source":"Exponents and roots (no variables)",
+         "target":"Scientific notation"
+      },
+      {  
+         "source":"Order of operations",
+         "target":"Scientific notation"
+      },
+      {  
+         "source":"Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties",
+         "target":"Scientific notation"
+      },
+      {  
+         "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "target":"Other pre-algebra (e.g. prime factorization)"
+      },
+      {  
+         "source":"Negative numbers and absolute value (no variables)",
+         "target":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)"
+      },
+      {  
+         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "target":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)"
+      },
+      {  
+         "source":"Exponents and roots (no variables)",
+         "target":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)"
+      },
+      {  
+         "source":"Negative numbers and absolute value (no variables)",
+         "target":"Variables, linear expressions, and solving linear equations"
+      },
+      {  
+         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "target":"Variables, linear expressions, and solving linear equations"
+      },
+      {  
+         "source":"Order of operations",
+         "target":"Variables, linear expressions, and solving linear equations"
+      },
+      {  
+         "source":"Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties",
+         "target":"Variables, linear expressions, and solving linear equations"
+      },
+      {  
+         "source":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)",
+         "target":"Graphs of lines (e.g. slope, intercepts, y=mx+b)"
+      },
+      {  
+         "source":"Variables, linear expressions, and solving linear equations",
+         "target":"Graphs of lines (e.g. slope, intercepts, y=mx+b)"
+      },
+      {  
+         "source":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)",
+         "target":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)"
+      },
+      {  
+         "source":"Variables, linear expressions, and solving linear equations",
+         "target":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)"
+      },
+      {  
+         "source":"Variables, linear expressions, and solving linear equations",
+         "target":"Inequalities (with variables)"
+      },
+      {  
+         "source":"Graphs of lines (e.g. slope, intercepts, y=mx+b)",
+         "target":"Inequalities (with variables)"
+      },
+      {  
+         "source":"Variables, linear expressions, and solving linear equations",
+         "target":"Absolute value (with variables)"
+      },
+      {  
+         "source":"Graphs of lines (e.g. slope, intercepts, y=mx+b)",
+         "target":"Absolute value (with variables)"
+      },
+      {  
+         "source":"Inequalities (with variables)",
+         "target":"Absolute value (with variables)"
+      },
+      {  
+         "source":"Variables, linear expressions, and solving linear equations",
+         "target":"Systems of linear equations"
+      },
+      {  
+         "source":"Graphs of lines (e.g. slope, intercepts, y=mx+b)",
+         "target":"Systems of linear equations"
+      },
+      {  
+         "source":"Exponents and roots (no variables)",
+         "target":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)"
+      },
+      {  
+         "source":"Variables, linear expressions, and solving linear equations",
+         "target":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Logarithms, radicals, and exponential functions (with variables)"
+      },
+      {  
+         "source":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "target":"Logarithms, radicals, and exponential functions (with variables)"
+      },
+      {  
+         "source":"Function graph transformations (e.g. translating, reflecting, scaling)",
+         "target":"Logarithms, radicals, and exponential functions (with variables)"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Quadratic expressions, equations, and graphs"
+      },
+      {  
+         "source":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "target":"Quadratic expressions, equations, and graphs"
+      },
+      {  
+         "source":"Function graph transformations (e.g. translating, reflecting, scaling)",
+         "target":"Quadratic expressions, equations, and graphs"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Higher polynomial expressions, equations, and graphs"
+      },
+      {  
+         "source":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "target":"Higher polynomial expressions, equations, and graphs"
+      },
+      {  
+         "source":"Quadratic expressions, equations, and graphs",
+         "target":"Higher polynomial expressions, equations, and graphs"
+      },
+      {  
+         "source":"Function graph transformations (e.g. translating, reflecting, scaling)",
+         "target":"Higher polynomial expressions, equations, and graphs"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Rational expressions, equations, and graphs"
+      },
+      {  
+         "source":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "target":"Rational expressions, equations, and graphs"
+      },
+      {  
+         "source":"Quadratic expressions, equations, and graphs",
+         "target":"Rational expressions, equations, and graphs"
+      },
+      {  
+         "source":"Higher polynomial expressions, equations, and graphs",
+         "target":"Rational expressions, equations, and graphs"
+      },
+      {  
+         "source":"Function graph transformations (e.g. translating, reflecting, scaling)",
+         "target":"Rational expressions, equations, and graphs"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Circle, ellipse, and hyperbola equations and graphs"
+      },
+      {  
+         "source":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "target":"Circle, ellipse, and hyperbola equations and graphs"
+      },
+      {  
+         "source":"Higher polynomial expressions, equations, and graphs",
+         "target":"Circle, ellipse, and hyperbola equations and graphs"
+      },
+      {  
+         "source":"Function graph transformations (e.g. translating, reflecting, scaling)",
+         "target":"Circle, ellipse, and hyperbola equations and graphs"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Function graph transformations (e.g. translating, reflecting, scaling)"
+      },
+      {  
+         "source":"Number types (e.g. rational, irrational, complex)",
+         "target":"Polar, parametric, and complex (a+bi) coordinate systems"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Polar, parametric, and complex (a+bi) coordinate systems"
+      },
+      {  
+         "source":"Systems of linear equations",
+         "target":"Polar, parametric, and complex (a+bi) coordinate systems"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Sequences and series"
+      },
+      {  
+         "source":"Logarithms, radicals, and exponential functions (with variables)",
+         "target":"Sequences and series"
+      },
+      {  
+         "source":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)",
+         "target":"Vectors and matrix basics"
+      },
+      {  
+         "source":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)",
+         "target":"Other algebra"
+      },
+      {  
+         "source":"Variables, linear expressions, and solving linear equations",
+         "target":"Other algebra"
+      },
+      {  
+         "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "target":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)"
+      },
+      {  
+         "source":"Factors, divisibility rules, GCF/LCM (no variables)",
+         "target":"Similarity, scaling, and shape transformations"
+      },
+      {  
+         "source":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)",
+         "target":"Similarity, scaling, and shape transformations"
+      },
+      {  
+         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "target":"Similarity, scaling, and shape transformations"
+      },
+      {  
+         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "target":"Congruence"
+      },
+      {  
+         "source":"Variables, linear expressions, and solving linear equations",
+         "target":"Logic and proofs"
+      },
+      {  
+         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "target":"Lines and angles"
+      },
+      {  
+         "source":"Similarity, scaling, and shape transformations",
+         "target":"Lines and angles"
+      },
+      {  
+         "source":"Congruence",
+         "target":"Lines and angles"
+      },
+      {  
+         "source":"Logic and proofs",
+         "target":"Lines and angles"
+      },
+      {  
+         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "target":"Triangles"
+      },
+      {  
+         "source":"Similarity, scaling, and shape transformations",
+         "target":"Triangles"
+      },
+      {  
+         "source":"Congruence",
+         "target":"Triangles"
+      },
+      {  
+         "source":"Logic and proofs",
+         "target":"Triangles"
+      },
+      {  
+         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "target":"Quadrilaterals"
+      },
+      {  
+         "source":"Similarity, scaling, and shape transformations",
+         "target":"Quadrilaterals"
+      },
+      {  
+         "source":"Congruence",
+         "target":"Quadrilaterals"
+      },
+      {  
+         "source":"Logic and proofs",
+         "target":"Quadrilaterals"
+      },
+      {  
+         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "target":"Regular polygons"
+      },
+      {  
+         "source":"Similarity, scaling, and shape transformations",
+         "target":"Regular polygons"
+      },
+      {  
+         "source":"Congruence",
+         "target":"Regular polygons"
+      },
+      {  
+         "source":"Logic and proofs",
+         "target":"Regular polygons"
+      },
+      {  
+         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "target":"Circles"
+      },
+      {  
+         "source":"Similarity, scaling, and shape transformations",
+         "target":"Circles"
+      },
+      {  
+         "source":"Congruence",
+         "target":"Circles"
+      },
+      {  
+         "source":"Logic and proofs",
+         "target":"Circles"
+      },
+      {  
+         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "target":"3D solids and polyhedra"
+      },
+      {  
+         "source":"Similarity, scaling, and shape transformations",
+         "target":"3D solids and polyhedra"
+      },
+      {  
+         "source":"Congruence",
+         "target":"3D solids and polyhedra"
+      },
+      {  
+         "source":"Logic and proofs",
+         "target":"3D solids and polyhedra"
+      },
+      {  
+         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "target":"Other geometry"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Basic trigonometric functions and ratios"
+      },
+      {  
+         "source":"Lines and angles",
+         "target":"Basic trigonometric functions and ratios"
+      },
+      {  
+         "source":"Triangles",
+         "target":"Basic trigonometric functions and ratios"
+      },
+      {  
+         "source":"Circles",
+         "target":"Basic trigonometric functions and ratios"
+      },
+      {  
+         "source":"Graphs of lines (e.g. slope, intercepts, y=mx+b)",
+         "target":"Trigonometric function graphs"
+      },
+      {  
+         "source":"Function graph transformations (e.g. translating, reflecting, scaling)",
+         "target":"Trigonometric function graphs"
+      },
+      {  
+         "source":"Basic trigonometric functions and ratios",
+         "target":"Trigonometric function graphs"
+      },
+      {  
+         "source":"Rational expressions, equations, and graphs",
+         "target":"Trigonometric equations and identities"
+      },
+      {  
+         "source":"Basic trigonometric functions and ratios",
+         "target":"Trigonometric equations and identities"
+      },
+      {  
+         "source":"Basic trigonometric functions and ratios",
+         "target":"Inverse trigonometric functions"
+      },
+      {  
+         "source":"Triangles",
+         "target":"Law of sines/cosines"
+      },
+      {  
+         "source":"Basic trigonometric functions and ratios",
+         "target":"Law of sines/cosines"
+      },
+      {  
+         "source":"Basic trigonometric functions and ratios",
+         "target":"Other trigonometry"
+      },
+      {  
+         "source":"Rational expressions, equations, and graphs",
+         "target":"Limits and continuity"
+      },
+      {  
+         "source":"Basic trigonometric functions and ratios",
+         "target":"Limits and continuity"
+      },
+      {  
+         "source":"Inverse trigonometric functions",
+         "target":"Limits and continuity"
+      },
+      {  
+         "source":"Limits and continuity",
+         "target":"Derivatives"
+      },
+      {  
+         "source":"Derivatives",
+         "target":"Extrema and critical points"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Approximating area under curves (e.g. trapezoids, Simpson's rule)"
+      },
+      {  
+         "source":"Sequences and series",
+         "target":"Approximating area under curves (e.g. trapezoids, Simpson's rule)"
+      },
+      {  
+         "source":"Quadrilaterals",
+         "target":"Approximating area under curves (e.g. trapezoids, Simpson's rule)"
+      },
+      {  
+         "source":"Derivatives",
+         "target":"Antiderivatives and integrals"
+      },
+      {  
+         "source":"Approximating area under curves (e.g. trapezoids, Simpson's rule)",
+         "target":"Antiderivatives and integrals"
+      },
+      {  
+         "source":"Lines and angles",
+         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+      },
+      {  
+         "source":"Triangles",
+         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+      },
+      {  
+         "source":"Quadrilaterals",
+         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+      },
+      {  
+         "source":"Circles",
+         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+      },
+      {  
+         "source":"3D solids and polyhedra",
+         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+      },
+      {  
+         "source":"Antiderivatives and integrals",
+         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+      },
+      {  
+         "source":"Antiderivatives and integrals",
+         "target":"Fundamental theorem of calculus I and II"
+      },
+      {  
+         "source":"Extrema and critical points",
+         "target":"Mean value theorem, average change, and secants"
+      },
+      {  
+         "source":"Antiderivatives and integrals",
+         "target":"Basic differential equation behavior (slope fields)"
+      },
+      {  
+         "source":"Sequences and series",
+         "target":"Euler's method"
+      },
+      {  
+         "source":"Basic differential equation behavior (slope fields)",
+         "target":"Euler's method"
+      },
+      {  
+         "source":"Antiderivatives and integrals",
+         "target":"Other calculus"
+      },
+      {  
+         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "target":"Measures of center and spread"
+      },
+      {  
+         "source":"Measures of center and spread",
+         "target":"Interpreting/creating plots, graphs, and tables"
+      },
+      {  
+         "source":"Variables, linear expressions, and solving linear equations",
+         "target":"Permutations, combinations, probability, and expectation"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Probability distributions"
+      },
+      {  
+         "source":"Permutations, combinations, probability, and expectation",
+         "target":"Probability distributions"
+      },
+      {  
+         "source":"Graphs of lines (e.g. slope, intercepts, y=mx+b)",
+         "target":"Linear regression and correlation"
+      },
+      {  
+         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "target":"Linear regression and correlation"
+      },
+      {  
+         "source":"Interpreting/creating plots, graphs, and tables",
+         "target":"Linear regression and correlation"
+      },
+      {  
+         "source":"Probability distributions",
+         "target":"Hypothesis testing and confidence intervals"
+      },
+      {  
+         "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
+         "target":"Sampling and surveying"
+      },
+      {  
+         "source":"Measures of center and spread",
+         "target":"Other statistics"
+      }
+   ]
+}
