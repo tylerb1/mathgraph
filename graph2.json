@@ -1,388 +1,1631 @@
 {  
    "nodes":[  
       {  
+         "y":923.9,
+         "x":509.1,
          "group":1,
          "name":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
-         "x":509.1,
-         "y":953.9
+         "children":[  
+            {  
+               "name":"Naming place values (ones, tens, hundreds, thousands, etc.)"
+            },
+            {  
+               "name":"Adding whole numbers (basic concept)"
+            },
+            {  
+               "name":"Adding whole numbers (vertically)"
+            },
+            {  
+               "name":"Subtracting whole numbers (basic concept)"
+            },
+            {  
+               "name":"Subtracting whole numbers (vertically)"
+            },
+            {  
+               "name":"Multiplying whole numbers (basic concept)"
+            },
+            {  
+               "name":"Multiplying whole numbers (vertically)"
+            },
+            {  
+               "name":"Dividing whole numbers (basic concept)"
+            },
+            {  
+               "name":"Dividing whole numbers (long division)"
+            }
+         ]
       },
       {  
+         "y":846.4,
+         "x":495.3,
          "group":1,
          "name":"Negative numbers and absolute value (no variables)",
-         "x":495.3,
-         "y":876.4
+         "children":[  
+            {  
+               "name":"Adding and subtracting negative numbers"
+            },
+            {  
+               "name":"Multiplying and dividing negative numbers"
+            },
+            {  
+               "name":"Finding absolute value"
+            }
+         ]
       },
       {  
+         "y":906.3,
+         "x":951.3,
          "group":1,
          "name":"Factors, divisibility rules, GCF/LCM (no variables)",
-         "x":951.3,
-         "y":936.3
+         "children":[  
+            {  
+               "name":"Divisibility rules/tricks (e.g. divisible by 3 if sum of digits is a multiple of 3)"
+            },
+            {  
+               "name":"Distinguishing prime vs. composite numbers"
+            },
+            {  
+               "name":"Finding the Least Common Multiple of two numbers"
+            },
+            {  
+               "name":"Finding the Greatest Common Factor of two numbers"
+            }
+         ]
       },
       {  
-         "group":1,
-         "name":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "y":836.6,
          "x":934.4,
-         "y":866.6
+         "group":1,
+         "name":"Decimals, fractions, ratios, and proportions",
+         "children":[  
+            {  
+               "name":"Understanding fractions"
+            },
+            {  
+               "name":"Reducing (simplifying) fractions"
+            },
+            {  
+               "name":"Identifying equivalent fractions"
+            },
+            {  
+               "name":"Understanding of decimals"
+            },
+            {  
+               "name":"Converting between fractions and mixed numbers"
+            },
+            {  
+               "name":"Converting between fractions and decimals"
+            },
+            {  
+               "name":"Adding/subtracting decimals"
+            },
+            {  
+               "name":"Multiplying/dividing decimals"
+            },
+            {  
+               "name":"Adding/subtracting fractions"
+            },
+            {  
+               "name":"Multiplying fractions"
+            },
+            {  
+               "name":"Finding the reciprocal of a fraction"
+            },
+            {  
+               "name":"Dividing fractions"
+            },
+            {  
+               "name":"Understanding rates/ratios/proportions"
+            },
+            {  
+               "name":"Finding a unit rate (e.g. 5 miles per 2 hours is how many miles per hour?)"
+            },
+            {  
+               "name":"Understanding percentages"
+            },
+            {  
+               "name":"Finding percent increase & decrease"
+            },
+            {  
+               "name":"Solving percentage word problems (e.g. 12 is what percent of 50)"
+            },
+            {  
+               "name":"Converting between different units (e.g. centimeters to kilometers)"
+            },
+            {  
+               "name":"Setting up proportions from word problems"
+            },
+            {  
+               "name":"Identifying constants of proportionality"
+            }
+         ]
       },
       {  
+         "y":876.8,
+         "x":869.6,
          "group":1,
          "name":"Exponents and roots (no variables)",
-         "x":869.6,
-         "y":906.8
+         "children":[  
+            {  
+               "name":"Evaluating whole-number exponents"
+            },
+            {  
+               "name":"Evaluating whole-number square roots"
+            },
+            {  
+               "name":"Evaluating whole-number nth roots"
+            },
+            {  
+               "name":"Simplifying Square Roots"
+            }
+         ]
       },
       {  
-         "group":1,
-         "name":"Order of operations",
-         "x":903.1,
-         "y":790.5
-      },
-      {  
-         "group":1,
-         "name":"Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties",
+         "y":717.4,
          "x":855.3,
-         "y":747.4
+         "group":1,
+         "name":"Order of operations and properties of grouping/equality",
+         "children":[  
+            {  
+               "name":"Understanding the order of operations (PEMDAS)"
+            },
+            {  
+               "name":"Understanding parentheses/brackets/grouping"
+            },
+            {  
+               "name":"Understanding associative property of addition"
+            },
+            {  
+               "name":"Understanding associative property of multiplication"
+            },
+            {  
+               "name":"Understanding commutative property of addition"
+            },
+            {  
+               "name":"Understanding commutative property of multiplication"
+            },
+            {  
+               "name":"Understanding the distributive property"
+            },
+            {  
+               "name":"Understanding the additive identity property of 0"
+            },
+            {  
+               "name":"Understanding the mutliplicative identity property of 1"
+            },
+            {  
+               "name":"Understanding additive inverse"
+            },
+            {  
+               "name":"Understanding multiplicative inverse"
+            },
+            {  
+               "name":"Understanding the symmetric property of equality"
+            },
+            {  
+               "name":"Understanding the transitive property of equality"
+            },
+            {  
+               "name":"Understanding the reflexive/identity property of equality"
+            }
+         ]
       },
       {  
+         "y":750.1,
+         "x":302.3,
          "group":1,
          "name":"Number types (e.g. rational, irrational, complex)",
-         "x":302.3,
-         "y":780.1
+         "children":[  
+            {  
+               "name":"Distinguishing between rational and irrational numbers"
+            },
+            {  
+               "name":"Understanding the number i (imaginary numbers)"
+            },
+            {  
+               "name":"Distinguishing between real and imaginary/complex numbers"
+            },
+            {  
+               "name":"Understanding the number types (natural, whole, rational, real, complex)"
+            },
+            {  
+               "name":"Understanding different bases (binary, hexadecimal, etc.)"
+            }
+         ]
       },
       {  
+         "y":688.8,
+         "x":321.3,
          "group":1,
          "name":"Scientific notation",
-         "x":321.3,
-         "y":718.8
+         "children":[  
+            {  
+               "name":"Understanding scientific notation"
+            },
+            {  
+               "name":"Converting numbers to and from scientific notation"
+            },
+            {  
+               "name":"Performing operations on numbers in scientific notation"
+            },
+            {  
+               "name":"Understand orders of magnitude"
+            }
+         ]
       },
       {  
+         "y":888.5,
+         "x":194.9,
          "group":1,
          "name":"Other pre-algebra (e.g. prime factorization)",
-         "x":194.9,
-         "y":918.5
+         "children":[  
+            {  
+               "name":"Prime-factorizing a number"
+            },
+            {  
+               "name":"Plotting real numbers on a number line"
+            },
+            {  
+               "name":"Evaluating factorials"
+            }
+         ]
       },
       {  
+         "y":653.0,
+         "x":737.7,
          "group":2,
          "name":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)",
-         "x":737.7,
-         "y":653.0
+         "children":[  
+            {  
+               "name":"Plotting points"
+            },
+            {  
+               "name":"Naming quadrants"
+            },
+            {  
+               "name":"Using the distance formula"
+            },
+            {  
+               "name":"Using the midpoint formula"
+            }
+         ]
       },
       {  
+         "y":670.7,
+         "x":534.1,
          "group":2,
          "name":"Variables, linear expressions, and solving linear equations",
-         "x":534.1,
-         "y":670.7
+         "children":[  
+            {  
+               "name":"Understanding algebra vocabulary: \"variable\""
+            },
+            {  
+               "name":"Understanding algebra vocabulary: \"term\""
+            },
+            {  
+               "name":"Understanding algebra vocabulary: \"coefficient\""
+            },
+            {  
+               "name":"Understanding algebra vocabulary: \"expression\""
+            },
+            {  
+               "name":"Understanding algebra vocabulary: \"equation\""
+            },
+            {  
+               "name":"Evaluating algebraic expressions with provided variable values"
+            },
+            {  
+               "name":"Identifying like terms"
+            },
+            {  
+               "name":"Combining/collecting like terms"
+            },
+            {  
+               "name":"Solving one-step linear equations (ax=b, x+a=b, etc.)"
+            },
+            {  
+               "name":"Solving multi-step linear equations (reverse PEMDAS)"
+            },
+            {  
+               "name":"Interpreting and using linear tables of values"
+            }
+         ]
       },
       {  
+         "y":617.8,
+         "x":331.4,
          "group":2,
          "name":"Graphs of lines (e.g. slope, intercepts, y=mx+b)",
-         "x":331.4,
-         "y":617.8
+         "children":[  
+            {  
+               "name":"Graphing a line from an equation"
+            },
+            {  
+               "name":"Using the point-slope formula"
+            },
+            {  
+               "name":"Identifying the point-slope form of a line"
+            },
+            {  
+               "name":"Identifying the slope-intercept form of a line"
+            },
+            {  
+               "name":"Identifying the standard form of a line"
+            },
+            {  
+               "name":"Finding an x or y intercept"
+            },
+            {  
+               "name":"Finding the slope between two points (slope formula)"
+            },
+            {  
+               "name":"Finding the slope of a graphed line"
+            },
+            {  
+               "name":"Finding equations of horizontal and vertical lines"
+            },
+            {  
+               "name":"Determining (algebraically) whether (a, b) is on a given line"
+            },
+            {  
+               "name":"Determining (algebraically) whether (a, b) is collinear with two other points"
+            },
+            {  
+               "name":"Finding equation of a line from a point and slope"
+            },
+            {  
+               "name":"Finding equation of a line from 2 points"
+            },
+            {  
+               "name":"Finding equation of a line from a graph"
+            },
+            {  
+               "name":"Identifying parallel lines"
+            },
+            {  
+               "name":"Identifying perpendicular lines"
+            },
+            {  
+               "name":"Finding the intersection of two lines"
+            },
+            {  
+               "name":"Interpreting rates as slopes"
+            }
+         ]
       },
       {  
-         "group":2,
-         "name":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "y":502.0,
          "x":497.5,
-         "y":502.0
+         "group":2,
+         "name":"Function definition, properties, and operations",
+         "children":[  
+            {  
+               "name":"Using interval notation"
+            },
+            {  
+               "name":"Understanding the definition of a function"
+            },
+            {  
+               "name":"Determining whether f is a function"
+            },
+            {  
+               "name":"Identifying one-to-one functions"
+            },
+            {  
+               "name":"Determining whether functions are even, odd, or neither"
+            },
+            {  
+               "name":"Identifying the dependent and independent variable"
+            },
+            {  
+               "name":"Determining the domain and range of a function"
+            },
+            {  
+               "name":"Distinguishing between direct vs. inverse variation"
+            },
+            {  
+               "name":"Using function operations (add/subtract, multiply/divide)"
+            },
+            {  
+               "name":"Finding composite functions"
+            },
+            {  
+               "name":"Finding inverse functions"
+            },
+            {  
+               "name":"Identifying piecewise and step functions"
+            },
+            {  
+               "name":"Finding the average rate of change on an interval"
+            }
+         ]
       },
       {  
+         "y":472.7,
+         "x":679.6,
          "group":2,
          "name":"Inequalities (with variables)",
-         "x":679.6,
-         "y":472.7
+         "children":[  
+            {  
+               "name":"Solving an inequality"
+            },
+            {  
+               "name":"Graphing an inequality"
+            }
+         ]
       },
       {  
+         "y":442.0,
+         "x":677.1,
          "group":2,
          "name":"Absolute value (with variables)",
-         "x":677.1,
-         "y":442.0
+         "children":[  
+            {  
+               "name":"Solving absolute value equations and inequalities"
+            }
+         ]
       },
       {  
+         "y":588.4,
+         "x":483.7,
          "group":2,
          "name":"Systems of linear equations",
-         "x":483.7,
-         "y":588.4
+         "children":[  
+            {  
+               "name":"Solving by elimination"
+            },
+            {  
+               "name":"Solving by substitution"
+            },
+            {  
+               "name":"Solving by graphing"
+            },
+            {  
+               "name":"Graphing systems of inequalities"
+            },
+            {  
+               "name":"Finding the number of solutions to a system (zero, one, infinite)"
+            },
+            {  
+               "name":"Solving optimization problems (using linear programming)"
+            },
+            {  
+               "name":"Solving systems of 3 equations"
+            },
+            {  
+               "name":"Setting up systems of equations/inequalities from word problems"
+            }
+         ]
       },
       {  
-         "group":2,
-         "name":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "y":617.3,
          "x":617.4,
-         "y":617.3
+         "group":2,
+         "name":"Monomials, binomials, and polynomial basics",
+         "children":[  
+            {  
+               "name":"Naming polynomials"
+            },
+            {  
+               "name":"Identifying the leading coefficient of a polynomial"
+            },
+            {  
+               "name":"Identifying the degree of a polynomial"
+            },
+            {  
+               "name":"Multiplying monomials"
+            },
+            {  
+               "name":"Factoring monomials"
+            },
+            {  
+               "name":"Factoring out monomials from polynomials"
+            },
+            {  
+               "name":"Adding/subtracting polynomials"
+            },
+            {  
+               "name":"Multiplying binomials (FOILing)"
+            },
+            {  
+               "name":"Understanding the zero factor theorem"
+            },
+            {  
+               "name":"Factoring using polynomial identities: difference of two squares"
+            },
+            {  
+               "name":"Evaluating x^0"
+            },
+            {  
+               "name":"Evaluating products of powers (exponent addition)"
+            },
+            {  
+               "name":"Evaluating quotients of powers (exponent subtraction)"
+            },
+            {  
+               "name":"Evaluating powers of powers (exponent multiplication)"
+            },
+            {  
+               "name":"Evaluating powers of products (exponent distribution)"
+            },
+            {  
+               "name":"Evaluating powers of quotients (exponent distribution)"
+            }
+         ]
       },
       {  
+         "y":329.2,
+         "x":332.5,
          "group":2,
          "name":"Logarithms, radicals, and exponential functions (with variables)",
-         "x":332.5,
-         "y":329.2
+         "children":[  
+            {  
+               "name":"Evaluating negative exponents"
+            },
+            {  
+               "name":"Evaluating fractional exponents (converting to radicals)"
+            },
+            {  
+               "name":"Raising roots to exponents"
+            },
+            {  
+               "name":"Multiplying radical expressions"
+            },
+            {  
+               "name":"Dividing radical expressions"
+            },
+            {  
+               "name":"Simplifying radicals (pulling out squares)"
+            },
+            {  
+               "name":"Adding/subtracting radical expressions"
+            },
+            {  
+               "name":"Identifying conjugate radicals"
+            },
+            {  
+               "name":"Understanding the definition of logarithms"
+            },
+            {  
+               "name":"Understanding natural logarithms and \"e\""
+            },
+            {  
+               "name":"Using the logarithm product rule"
+            },
+            {  
+               "name":"Using the logarithm quotient rule"
+            },
+            {  
+               "name":"Using the logarithm power rule"
+            },
+            {  
+               "name":"Using the logarithm switch-base formula"
+            },
+            {  
+               "name":"Using the logarithm change-of-base formula"
+            },
+            {  
+               "name":"Graphing exponential functions"
+            },
+            {  
+               "name":"Graphing radical functions"
+            },
+            {  
+               "name":"Graphing logarithmic functions"
+            },
+            {  
+               "name":"Solving exponential equations"
+            },
+            {  
+               "name":"Solving logarithmic equations"
+            },
+            {  
+               "name":"Solving radical equations"
+            },
+            {  
+               "name":"Using exponential growth and decay modeling (e.g. compound interest, half-life)"
+            }
+         ]
       },
       {  
+         "y":389.1,
+         "x":670.4,
          "group":2,
          "name":"Quadratic expressions, equations, and graphs",
-         "x":670.4,
-         "y":389.1
+         "children":[  
+            {  
+               "name":"Solving basic (ax^2 + c = 0) quadratic equations"
+            },
+            {  
+               "name":"Solving equations with factored quadratic trinomials (e.g. (ax+b)(cx+d)=0)"
+            },
+            {  
+               "name":"Factoring quadratic trinomials (of form x\u00b2 + bx + c)"
+            },
+            {  
+               "name":"Factoring quadratic trinomials (of form ax\u00b2 + bx + c)"
+            },
+            {  
+               "name":"Solving quadratic equations by factoring"
+            },
+            {  
+               "name":"Factoring using polynomial identities: (a+b)\u00b2"
+            },
+            {  
+               "name":"Factoring using polynomial identities: (a-b)\u00b2"
+            },
+            {  
+               "name":"Completing the square"
+            },
+            {  
+               "name":"Using the quadratic formula"
+            },
+            {  
+               "name":"Using the discriminant to see the number/type of solutions to a quadratic equation"
+            },
+            {  
+               "name":"Graphing a parabola from an equation"
+            },
+            {  
+               "name":"Graphing a parabola from a focus and directrix"
+            },
+            {  
+               "name":"Finding focus and directrix of a parabola"
+            },
+            {  
+               "name":"Finding the vertex and line of symmetry of a parabola (-b/2a)"
+            },
+            {  
+               "name":"Solving optimization problems with quadratics (find max/min using -b/2a)"
+            },
+            {  
+               "name":"Understanding and creating equations of parabolas"
+            }
+         ]
       },
       {  
+         "y":358.8,
+         "x":571.7,
          "group":2,
          "name":"Higher polynomial expressions, equations, and graphs",
-         "x":571.7,
-         "y":358.8
+         "children":[  
+            {  
+               "name":"Multiplying higher polynomials"
+            },
+            {  
+               "name":"Finding a binomial expansion (using Pascal's triangle)"
+            },
+            {  
+               "name":"Factoring higher polynomials by grouping"
+            },
+            {  
+               "name":"Factoring higher polynomials using identities: sum of cubes"
+            },
+            {  
+               "name":"Factoring higher polynomials using identities: difference of cubes"
+            },
+            {  
+               "name":"Using the remainder theorem"
+            },
+            {  
+               "name":"Using the rational root theorem"
+            },
+            {  
+               "name":"Using synthetic division"
+            },
+            {  
+               "name":"Using Descartes' rule of signs"
+            },
+            {  
+               "name":"Graphing higher polynomials (degree 3+)"
+            },
+            {  
+               "name":"Finding zeroes of a polynomial graph"
+            }
+         ]
       },
       {  
+         "y":266.8,
+         "x":456.1,
          "group":2,
          "name":"Rational expressions, equations, and graphs",
-         "x":456.1,
-         "y":266.8
+         "children":[  
+            {  
+               "name":"Simplifying rational expressions"
+            },
+            {  
+               "name":"Solving rational equations"
+            },
+            {  
+               "name":"Finding asymptotes and end behavior"
+            },
+            {  
+               "name":"Classifying discontinuities"
+            },
+            {  
+               "name":"Using partial fraction decomposition"
+            },
+            {  
+               "name":"Rationalizing the denominator"
+            }
+         ]
       },
       {  
+         "y":303.6,
+         "x":662.9,
          "group":2,
          "name":"Circle, ellipse, and hyperbola equations and graphs",
-         "x":662.9,
-         "y":303.6
+         "children":[  
+            {  
+               "name":"Understanding conic sections"
+            },
+            {  
+               "name":"Understanding and creating equations of circles"
+            },
+            {  
+               "name":"Understanding and creating equations of hyperbola"
+            },
+            {  
+               "name":"Understanding and creating equations of ellipses"
+            },
+            {  
+               "name":"Foci, directrices, and eccentricities of conic sections"
+            }
+         ]
       },
       {  
+         "y":424.5,
+         "x":349.5,
          "group":2,
          "name":"Function graph transformations (e.g. translating, reflecting, scaling)",
-         "x":349.5,
-         "y":424.5
+         "children":[  
+            {  
+               "name":"Translating a function/image"
+            },
+            {  
+               "name":"Stretching/dilating a function or image (scale factors)"
+            },
+            {  
+               "name":"Rotating a function/image"
+            },
+            {  
+               "name":"Reflecting a function/image"
+            }
+         ]
       },
       {  
+         "y":477.6,
+         "x":293.7,
          "group":2,
          "name":"Polar, parametric, and complex (a+bi) coordinate systems",
-         "x":293.7,
-         "y":477.6
+         "children":[  
+            {  
+               "name":"Adding/subtracting complex numbers"
+            },
+            {  
+               "name":"Multiplying complex numbers"
+            },
+            {  
+               "name":"Finding complex conjugates"
+            },
+            {  
+               "name":"Using the complex plane"
+            },
+            {  
+               "name":"Using the polar coordinate system"
+            },
+            {  
+               "name":"Using the parametric coordinate system"
+            }
+         ]
       },
       {  
+         "y":228.2,
+         "x":289.8,
          "group":2,
          "name":"Sequences and series",
-         "x":289.8,
-         "y":228.2
+         "children":[  
+            {  
+               "name":"Finding the nth term of an arithmetic series"
+            },
+            {  
+               "name":"Finding the sum of an arithmetic series"
+            },
+            {  
+               "name":"Finding the nth term of a geometric series"
+            },
+            {  
+               "name":"Finding the sum of a geometric series"
+            },
+            {  
+               "name":"Using sigma notation"
+            },
+            {  
+               "name":"Finding rule for sequence from the sequence itself"
+            },
+            {  
+               "name":"Using recursively-defined series"
+            }
+         ]
       },
       {  
+         "y":564.6,
+         "x":659.5,
          "group":2,
          "name":"Vectors and matrix basics",
-         "x":659.5,
-         "y":564.6
+         "children":[  
+            {  
+               "name":"Finding magnitude & components of a vector"
+            },
+            {  
+               "name":"Adding and subtracting vectors"
+            },
+            {  
+               "name":"Adding and subtracting matrices"
+            },
+            {  
+               "name":"Multiplying vector/matrix by a scalar"
+            },
+            {  
+               "name":"Multiplying matrices"
+            },
+            {  
+               "name":"Representing a system of equations as a matrix multiplied by a vector"
+            },
+            {  
+               "name":"Finding the inverse of a matrix"
+            },
+            {  
+               "name":"Finding the determinant of a matrix"
+            }
+         ]
       },
       {  
+         "y":638.9,
+         "x":693.6,
          "group":2,
          "name":"Other algebra",
-         "x":693.6,
-         "y":638.9
+         "children":[  
+            {  
+               "name":"Solving combined time problems (Bob can paint a fence in X hours, Tom in Y hours...)"
+            },
+            {  
+               "name":"Solving non-linear systems of equations/inequalities"
+            },
+            {  
+               "name":"Determining whether a table of values increases in linear, quadratic, or exponential pattern"
+            },
+            {  
+               "name":"Translating word problems into math (general)"
+            }
+         ]
       },
       {  
-         "group":3,
-         "name":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "y":622.7,
          "x":926.1,
-         "y":622.7
+         "group":3,
+         "name":"Names and properties of figures",
+         "children":[  
+            {  
+               "name":"Understanding geometry vocabulary: point"
+            },
+            {  
+               "name":"Understanding geometry vocabulary: line"
+            },
+            {  
+               "name":"Understanding geometry vocabulary: line segment"
+            },
+            {  
+               "name":"Understanding geometry vocabulary: ray"
+            },
+            {  
+               "name":"Understanding geometry vocabulary: bisection"
+            },
+            {  
+               "name":"Understanding geometry vocabulary: acute/obtuse/right"
+            },
+            {  
+               "name":"Understanding geometry vocabulary: plane"
+            },
+            {  
+               "name":"Finding areas and perimeters of 2D shapes"
+            },
+            {  
+               "name":"Naming polygons"
+            },
+            {  
+               "name":"Identifying polygon properties (convex, concave, etc.)"
+            }
+         ]
       },
       {  
+         "y":560.1,
+         "x":1026.6,
          "group":3,
          "name":"Similarity, scaling, and shape transformations",
-         "x":1076.6,
-         "y":560.1
+         "children":[  
+            {  
+               "name":"Using similarity to set up/solve equations"
+            },
+            {  
+               "name":"Proving similarity of arbitrary shapes using proportions"
+            }
+         ]
       },
       {  
-         "group":3,
-         "name":"Congruence",
-         "x":847.8,
-         "y":473.8
-      },
-      {  
+         "y":517.0,
+         "x":1159.7,
          "group":3,
          "name":"Logic and proofs",
-         "x":1159.7,
-         "y":517.0
+         "children":[  
+            {  
+               "name":"Using conditional logic in geometric proofs"
+            }
+         ]
       },
       {  
+         "y":320.0,
+         "x":953.2,
          "group":3,
          "name":"Lines and angles",
-         "x":953.2,
-         "y":320.0
+         "children":[  
+            {  
+               "name":"Identifying supplementary and complementary angles"
+            },
+            {  
+               "name":"Identifying vertical angles (congruent)"
+            },
+            {  
+               "name":"Identifying adjacent angles"
+            },
+            {  
+               "name":"Understanding parallel line transversals: alternate interior angles"
+            },
+            {  
+               "name":"Understanding parallel line transversals: alternate exterior angles"
+            },
+            {  
+               "name":"Understanding parallel line transversals: corresponding angles"
+            },
+            {  
+               "name":"Using degrees, minutes, and seconds"
+            },
+            {  
+               "name":"Doing geometric constructions: copying a line segment"
+            },
+            {  
+               "name":"Doing geometric constructions: copying an angle"
+            },
+            {  
+               "name":"Doing geometric constructions: bisecting a line segment"
+            },
+            {  
+               "name":"Doing geometric constructions: bisecting an angle"
+            },
+            {  
+               "name":"Doing geometric constructions: perpendicular lines"
+            },
+            {  
+               "name":"Doing geometric constructions: parallel lines"
+            },
+            {  
+               "name":"Doing geometric constructions: perpendicular bisectors"
+            }
+         ]
       },
       {  
+         "y":294.9,
+         "x":1003.3,
          "group":3,
          "name":"Triangles",
-         "x":1003.3,
-         "y":294.9
+         "children":[  
+            {  
+               "name":"Identifying types of triangles (equilateral, isosceles, scalene, right)"
+            },
+            {  
+               "name":"Using the sum of interior angles of a triangle"
+            },
+            {  
+               "name":"Relationship between interior and exterior angles"
+            },
+            {  
+               "name":"Using the triangle inequality"
+            },
+            {  
+               "name":"Using the Pythagorean Theorem"
+            },
+            {  
+               "name":"Using special right triangles (30-60-90, 45-45-90) "
+            },
+            {  
+               "name":"Identifying postulates for proving triangles similar and congruent"
+            },
+            {  
+               "name":"Using the side-splitter theorem"
+            },
+            {  
+               "name":"Using the altitude-on-hypotenuse theorem"
+            },
+            {  
+               "name":"Using the triangle midsegment theorem"
+            },
+            {  
+               "name":"Identifying centroid, circumcenter, incenter, and orthocenter of a triangle"
+            },
+            {  
+               "name":"Identifying altitudes and medians"
+            },
+            {  
+               "name":"Constructing inscribed and circumscribed triangles"
+            },
+            {  
+               "name":"Constructing a triangle from given sides"
+            },
+            {  
+               "name":"Constructing a triangle from given angles"
+            }
+         ]
       },
       {  
+         "y":299.6,
+         "x":1086.6,
          "group":3,
          "name":"Quadrilaterals",
-         "x":1086.6,
-         "y":299.6
+         "children":[  
+            {  
+               "name":"Identifying properties of parallelograms"
+            },
+            {  
+               "name":"Identifying properties of rectangles"
+            },
+            {  
+               "name":"Identifying properties of squares"
+            },
+            {  
+               "name":"Identifying properties of rhombuses"
+            },
+            {  
+               "name":"Identifying properties of trapezoids"
+            },
+            {  
+               "name":"Identifying properties of kites"
+            }
+         ]
       },
       {  
+         "y":434.4,
+         "x":1011.7,
          "group":3,
          "name":"Regular polygons",
-         "x":1011.7,
-         "y":434.4
+         "children":[  
+            {  
+               "name":"Finding the measure of interior angles of regular polygons"
+            },
+            {  
+               "name":"Finding the measure of exterior angles of a regular polygon"
+            }
+         ]
       },
       {  
+         "y":348.0,
+         "x":895.8,
          "group":3,
          "name":"Circles",
-         "x":895.8,
-         "y":348.0
+         "children":[  
+            {  
+               "name":"Understanding circle terminology (chords, tangents, secants, radius, diameter, circumference, etc.)"
+            },
+            {  
+               "name":"Finding lengths of line segments formed by tangents/secants/chords"
+            },
+            {  
+               "name":"Finding measures of inscribed angles and subtended arcs formed by tangents/secants/chords"
+            },
+            {  
+               "name":"Identifying special properties of chords"
+            },
+            {  
+               "name":"Understanding relationships among inscribed angles, radii, and chords"
+            },
+            {  
+               "name":"Constructing tangent lines"
+            },
+            {  
+               "name":"Constructing triangles, squares, and hexagons inscribed in circles"
+            }
+         ]
       },
       {  
+         "y":320.7,
+         "x":1108.7,
          "group":3,
          "name":"3D solids and polyhedra",
-         "x":1158.7,
-         "y":320.7
+         "children":[  
+            {  
+               "name":"Finding volumes and surface areas of 3D solids (one for each polyhedron)"
+            },
+            {  
+               "name":"Finding numbers of polyhedron sides and edges (Euler's rule)"
+            },
+            {  
+               "name":"Identifying 2D cross-sections of 3D shapes"
+            },
+            {  
+               "name":"Identifying 3D solids forms from 2D nets"
+            },
+            {  
+               "name":"Using Cavalieri's principle"
+            }
+         ]
       },
       {  
+         "y":570.5,
+         "x":815.9,
          "group":3,
          "name":"Other geometry",
-         "x":815.9,
-         "y":570.5
+         "children":[  
+
+         ]
       },
       {  
+         "y":264.2,
+         "x":749.5,
          "group":4,
          "name":"Basic trigonometric functions and ratios",
-         "x":749.5,
-         "y":264.2
+         "children":[  
+            {  
+               "name":"Understanding trigonometric functions (right triangle)"
+            },
+            {  
+               "name":"Using \"SOHCAHTOA\""
+            },
+            {  
+               "name":"Understanding trigonometric functions (unit circle)"
+            },
+            {  
+               "name":"Evaluating a basic trigonometric function (multiples of 30 and 45 deg)"
+            },
+            {  
+               "name":"Using known trigonometric ratios to evaluate other trig functions"
+            }
+         ]
       },
       {  
+         "y":227.1,
+         "x":645.4,
          "group":4,
          "name":"Trigonometric function graphs",
-         "x":645.4,
-         "y":227.1
+         "children":[  
+            {  
+               "name":"Graphing and visually interpreting trigonometric functions (y=Asin(Bx+C)+D)"
+            },
+            {  
+               "name":"Identifying elements of a trigonometric function (amplitude, midline, period, frequency)"
+            }
+         ]
       },
       {  
+         "y":179.1,
+         "x":605.0,
          "group":4,
          "name":"Trigonometric equations and identities",
-         "x":605.0,
-         "y":179.1
+         "children":[  
+            {  
+               "name":"Identifying trigonometric identities"
+            },
+            {  
+               "name":"Simplifying trig expressions using identities"
+            },
+            {  
+               "name":"Proving trigonometric equations true using identities"
+            },
+            {  
+               "name":"Using double/half/addition/subtraction identities to evaluate trig functions"
+            },
+            {  
+               "name":"Solving trigonometric equations on specific intervals"
+            }
+         ]
       },
       {  
+         "y":231.2,
+         "x":457.4,
          "group":4,
          "name":"Inverse trigonometric functions",
-         "x":457.4,
-         "y":231.2
+         "children":[  
+            {  
+               "name":"Finding the angle between two lines in the plane"
+            },
+            {  
+               "name":"Using inverse trigonometric functions"
+            }
+         ]
       },
       {  
+         "y":190.8,
+         "x":850.6,
          "group":4,
          "name":"Law of sines/cosines",
-         "x":850.6,
-         "y":190.8
+         "children":[  
+            {  
+               "name":"Using the Law of Sines"
+            },
+            {  
+               "name":"Using the Law of Cosines"
+            }
+         ]
       },
       {  
+         "y":244.1,
+         "x":802.3,
          "group":4,
          "name":"Other trigonometry",
-         "x":802.3,
-         "y":244.1
+         "children":[  
+            {  
+               "name":"Using DeMoivre's Theorem"
+            }
+         ]
       },
       {  
+         "y":138.2,
+         "x":312.7,
          "group":5,
          "name":"Limits and continuity",
-         "x":312.7,
-         "y":138.2
+         "children":[  
+            {  
+               "name":"Evaluating basic limits"
+            },
+            {  
+               "name":"Evaluating limits using L\u2019Hopital\u2019s rule"
+            }
+         ]
       },
       {  
+         "y":102.2,
+         "x":212.1,
          "group":5,
          "name":"Derivatives",
-         "x":212.1,
-         "y":102.2
+         "children":[  
+            {  
+               "name":"Finding a derivative using the limit definition"
+            },
+            {  
+               "name":"Finding a derivative using the power rule"
+            },
+            {  
+               "name":"Finding a derivative using the chain rule"
+            },
+            {  
+               "name":"Finding a derivative using the product rule"
+            },
+            {  
+               "name":"Finding a derivative using the quotient rule"
+            },
+            {  
+               "name":"Finding trigonometric function derivatives"
+            },
+            {  
+               "name":"Other derivatives (log, etc.)"
+            },
+            {  
+               "name":"Determining differentiability of a function"
+            },
+            {  
+               "name":"Using implicit differentiation"
+            },
+            {  
+               "name":"Solving related rates problems"
+            }
+         ]
       },
       {  
+         "y":55.0,
+         "x":142.3,
          "group":5,
          "name":"Extrema and critical points",
-         "x":142.3,
-         "y":55.0
+         "children":[  
+            {  
+               "name":"Finding critical points/extrema"
+            },
+            {  
+               "name":"Finding inflection points"
+            }
+         ]
       },
       {  
+         "y":139.1,
+         "x":585.4,
          "group":5,
          "name":"Approximating area under curves (e.g. trapezoids, Simpson's rule)",
-         "x":585.4,
-         "y":139.1
+         "children":[  
+            {  
+               "name":"Approximating area under a curve using left-hand rectangles"
+            },
+            {  
+               "name":"Approximating area under a curve using right-hand rectangles"
+            },
+            {  
+               "name":"Approximating area under a curve using trapezoids"
+            },
+            {  
+               "name":"Approximating area under a curve using Simpson's Rule"
+            }
+         ]
       },
       {  
+         "y":106.1,
+         "x":628.1,
          "group":5,
          "name":"Antiderivatives and integrals",
-         "x":628.1,
-         "y":106.1
+         "children":[  
+            {  
+               "name":"Evaluating indefinite integrals (antiderivatives)"
+            },
+            {  
+               "name":"Finding the area under a curve"
+            },
+            {  
+               "name":"Integrating using u-substitution"
+            },
+            {  
+               "name":"Integrating by parts"
+            },
+            {  
+               "name":"Integration by parts: Table Method"
+            },
+            {  
+               "name":"Integrating by partial fractions"
+            }
+         ]
       },
       {  
-         "group":5,
-         "name":"Solids and surfaces of integration (e.g. disks, washers)",
+         "y":72.2,
          "x":1006.4,
-         "y":72.2
+         "group":5,
+         "name":"Solids/surfaces of integration",
+         "children":[  
+            {  
+               "name":"Finding the volume of solids of revolution"
+            },
+            {  
+               "name":"Finding surface area of solids of revolution"
+            }
+         ]
       },
       {  
+         "y":56.4,
+         "x":402.8,
          "group":5,
          "name":"Fundamental theorem of calculus I and II",
-         "x":402.8,
-         "y":56.4
+         "children":[  
+            {  
+               "name":"Understanding the fundamental theorem of calculus part 1"
+            },
+            {  
+               "name":"Understanding the fundamental theorem of calculus part 2"
+            }
+         ]
       },
       {  
+         "y":12.0,
+         "x":107.4,
          "group":5,
          "name":"Mean value theorem, average change, and secants",
-         "x":107.4,
-         "y":12.0
+         "children":[  
+            {  
+               "name":"Finding the average of a continuous function on an interval"
+            },
+            {  
+               "name":"Understanding the mean value theorem"
+            }
+         ]
       },
       {  
+         "y":42.1,
+         "x":600.2,
          "group":5,
          "name":"Basic differential equation behavior (slope fields)",
-         "x":600.2,
-         "y":42.1
+         "children":[  
+            {  
+               "name":"Solving by separation of variables"
+            },
+            {  
+               "name":"Solving initial value problems"
+            },
+            {  
+               "name":"Interpreting slope fields"
+            }
+         ]
       },
       {  
+         "y":29.8,
+         "x":308.1,
          "group":5,
          "name":"Euler's method",
-         "x":308.1,
-         "y":29.8
+         "children":[  
+            {  
+               "name":"Using Euler's Method"
+            }
+         ]
       },
       {  
+         "y":75.8,
+         "x":532.2,
          "group":5,
          "name":"Other calculus",
-         "x":532.2,
-         "y":75.8
+         "children":[  
+
+         ]
       },
       {  
+         "y":613.2,
+         "x":64.5,
          "group":6,
          "name":"Measures of center and spread",
-         "x":64.5,
-         "y":613.2
+         "children":[  
+            {  
+               "name":"Finding measures of central tendency (Mean, median, and mode)"
+            },
+            {  
+               "name":"Finding measures of spread (standard deviation and interquartile range)"
+            }
+         ]
       },
       {  
+         "y":546.5,
+         "x":33.2,
          "group":6,
          "name":"Interpreting/creating plots, graphs, and tables",
-         "x":33.2,
-         "y":546.5
+         "children":[  
+            {  
+               "name":"Using dot/scatter plots"
+            },
+            {  
+               "name":"Identifying clusters and outliers"
+            },
+            {  
+               "name":"Using box and whisker plots"
+            },
+            {  
+               "name":"Using stem and leaf plots"
+            },
+            {  
+               "name":"Using histograms"
+            },
+            {  
+               "name":"Understanding frequency (joint, marginal, conditional, relative) in two-way data tables"
+            }
+         ]
       },
       {  
+         "y":454.0,
+         "x":63.2,
          "group":6,
          "name":"Permutations, combinations, probability, and expectation",
-         "x":63.2,
-         "y":434.0
+         "children":[  
+            {  
+               "name":"Finding basic probabilities"
+            },
+            {  
+               "name":"Understanding mutual exclusivity"
+            },
+            {  
+               "name":"Finding probabilities of compound events using the Addition Rule"
+            },
+            {  
+               "name":"Distinguishing between dependent and dependent events"
+            },
+            {  
+               "name":"Finding probabilities of compound events using the Multiplication Rule"
+            },
+            {  
+               "name":"Finding probabilities with replacement vs. without replacement"
+            },
+            {  
+               "name":"Finding conditional probabilities (using Bayes' theorem)"
+            },
+            {  
+               "name":"Understanding sample spaces (e.g. outcomes of rolling two die)"
+            },
+            {  
+               "name":"Finding permutations"
+            },
+            {  
+               "name":"Finding combinations"
+            },
+            {  
+               "name":"Finding expected values by weighting quantities and their associated probabilities (e.g. gambling games)"
+            }
+         ]
       },
       {  
+         "y":392.8,
+         "x":123.9,
          "group":6,
          "name":"Probability distributions",
-         "x":123.9,
-         "y":392.8
+         "children":[  
+            {  
+               "name":"Understanding the normal distribution (bell curve) and 68-95-99.7 rule"
+            },
+            {  
+               "name":"Understanding right-skewed and left-skewed distributions"
+            },
+            {  
+               "name":"Finding population percentages using z-scores"
+            }
+         ]
       },
       {  
+         "y":517.1,
+         "x":14.0,
          "group":6,
          "name":"Linear regression and correlation",
-         "x":14.0,
-         "y":517.1
+         "children":[  
+            {  
+               "name":"Fitting regression lines"
+            },
+            {  
+               "name":"Interpreting slope and y-intercept of regression lines"
+            },
+            {  
+               "name":"Calculating correlation coefficients"
+            },
+            {  
+               "name":"Plotting residuals"
+            },
+            {  
+               "name":"Distinguishing between linear and nonlinear association"
+            },
+            {  
+               "name":"Distinguishing between positive and negative association"
+            },
+            {  
+               "name":"Distinguishing between correlation and causation"
+            }
+         ]
       },
       {  
+         "y":347.5,
+         "x":95.3,
          "group":6,
          "name":"Hypothesis testing and confidence intervals",
-         "x":95.3,
-         "y":347.5
+         "children":[  
+            {  
+               "name":"Testing for statistical significance: null and alternate hypotheses"
+            },
+            {  
+               "name":"Testing for statistical significance: t-tests, p-values, and degrees of freedom"
+            },
+            {  
+               "name":"Testing for statistical significance: chi-squared test"
+            },
+            {  
+               "name":"Finding a population proportion and margin of error for a given population parameter and confidence interval"
+            }
+         ]
       },
       {  
+         "y":738.2,
+         "x":9.7,
          "group":6,
          "name":"Sampling and surveying",
-         "x":39.7,
-         "y":738.2
+         "children":[  
+            {  
+               "name":"Understanding simple random sampling"
+            },
+            {  
+               "name":"Distinguishing between sample surveys, experiments, and observational studies"
+            }
+         ]
       },
       {  
+         "y":590.6,
+         "x":156.8,
          "group":6,
          "name":"Other statistics",
-         "x":156.8,
-         "y":590.6
+         "children":[  
+
+         ]
       }
    ],
    "links":[  
@@ -396,11 +1639,11 @@
       },
       {  
          "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
-         "target":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)"
+         "target":"Decimals, fractions, ratios, and proportions"
       },
       {  
          "source":"Factors, divisibility rules, GCF/LCM (no variables)",
-         "target":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)"
+         "target":"Decimals, fractions, ratios, and proportions"
       },
       {  
          "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
@@ -412,23 +1655,23 @@
       },
       {  
          "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
-         "target":"Order of operations"
+         "target":"Order of operations and properties of grouping/equality"
       },
       {  
-         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
-         "target":"Order of operations"
+         "source":"Decimals, fractions, ratios, and proportions",
+         "target":"Order of operations and properties of grouping/equality"
       },
       {  
          "source":"Exponents and roots (no variables)",
-         "target":"Order of operations"
+         "target":"Order of operations and properties of grouping/equality"
       },
       {  
          "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
-         "target":"Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties"
+         "target":"Order of operations and properties of grouping/equality"
       },
       {  
-         "source":"Order of operations",
-         "target":"Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties"
+         "source":"Order of operations and properties of grouping/equality",
+         "target":"Order of operations and properties of grouping/equality"
       },
       {  
          "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
@@ -439,7 +1682,7 @@
          "target":"Number types (e.g. rational, irrational, complex)"
       },
       {  
-         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "source":"Decimals, fractions, ratios, and proportions",
          "target":"Number types (e.g. rational, irrational, complex)"
       },
       {  
@@ -455,7 +1698,7 @@
          "target":"Scientific notation"
       },
       {  
-         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "source":"Decimals, fractions, ratios, and proportions",
          "target":"Scientific notation"
       },
       {  
@@ -463,11 +1706,11 @@
          "target":"Scientific notation"
       },
       {  
-         "source":"Order of operations",
+         "source":"Order of operations and properties of grouping/equality",
          "target":"Scientific notation"
       },
       {  
-         "source":"Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties",
+         "source":"Order of operations and properties of grouping/equality",
          "target":"Scientific notation"
       },
       {  
@@ -479,7 +1722,7 @@
          "target":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)"
       },
       {  
-         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "source":"Decimals, fractions, ratios, and proportions",
          "target":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)"
       },
       {  
@@ -491,15 +1734,15 @@
          "target":"Variables, linear expressions, and solving linear equations"
       },
       {  
-         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "source":"Decimals, fractions, ratios, and proportions",
          "target":"Variables, linear expressions, and solving linear equations"
       },
       {  
-         "source":"Order of operations",
+         "source":"Order of operations and properties of grouping/equality",
          "target":"Variables, linear expressions, and solving linear equations"
       },
       {  
-         "source":"Grouping (associative, commutative, distributive) and equality (symmetric, reflexive, transitive) properties",
+         "source":"Order of operations and properties of grouping/equality",
          "target":"Variables, linear expressions, and solving linear equations"
       },
       {  
@@ -512,11 +1755,11 @@
       },
       {  
          "source":"Coordinate plane basics (e.g. quadrants, plotting points, distance/midpoint formula)",
-         "target":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)"
+         "target":"Function definition, properties, and operations"
       },
       {  
          "source":"Variables, linear expressions, and solving linear equations",
-         "target":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)"
+         "target":"Function definition, properties, and operations"
       },
       {  
          "source":"Variables, linear expressions, and solving linear equations",
@@ -548,18 +1791,18 @@
       },
       {  
          "source":"Exponents and roots (no variables)",
-         "target":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)"
+         "target":"Monomials, binomials, and polynomial basics"
       },
       {  
          "source":"Variables, linear expressions, and solving linear equations",
-         "target":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)"
+         "target":"Monomials, binomials, and polynomial basics"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Logarithms, radicals, and exponential functions (with variables)"
       },
       {  
-         "source":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "source":"Monomials, binomials, and polynomial basics",
          "target":"Logarithms, radicals, and exponential functions (with variables)"
       },
       {  
@@ -567,11 +1810,11 @@
          "target":"Logarithms, radicals, and exponential functions (with variables)"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Quadratic expressions, equations, and graphs"
       },
       {  
-         "source":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "source":"Monomials, binomials, and polynomial basics",
          "target":"Quadratic expressions, equations, and graphs"
       },
       {  
@@ -579,11 +1822,11 @@
          "target":"Quadratic expressions, equations, and graphs"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Higher polynomial expressions, equations, and graphs"
       },
       {  
-         "source":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "source":"Monomials, binomials, and polynomial basics",
          "target":"Higher polynomial expressions, equations, and graphs"
       },
       {  
@@ -595,11 +1838,11 @@
          "target":"Higher polynomial expressions, equations, and graphs"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Rational expressions, equations, and graphs"
       },
       {  
-         "source":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "source":"Monomials, binomials, and polynomial basics",
          "target":"Rational expressions, equations, and graphs"
       },
       {  
@@ -615,11 +1858,11 @@
          "target":"Rational expressions, equations, and graphs"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Circle, ellipse, and hyperbola equations and graphs"
       },
       {  
-         "source":"Simplifying monomial and binomial expressions (e.g. factoring/distributing a single term, exponent addition/subtraction)",
+         "source":"Monomials, binomials, and polynomial basics",
          "target":"Circle, ellipse, and hyperbola equations and graphs"
       },
       {  
@@ -631,7 +1874,7 @@
          "target":"Circle, ellipse, and hyperbola equations and graphs"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Function graph transformations (e.g. translating, reflecting, scaling)"
       },
       {  
@@ -639,7 +1882,7 @@
          "target":"Polar, parametric, and complex (a+bi) coordinate systems"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Polar, parametric, and complex (a+bi) coordinate systems"
       },
       {  
@@ -647,7 +1890,7 @@
          "target":"Polar, parametric, and complex (a+bi) coordinate systems"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Sequences and series"
       },
       {  
@@ -668,7 +1911,7 @@
       },
       {  
          "source":"Basic operations (counting, place values, addition, subtraction, multiplication, division)",
-         "target":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)"
+         "target":"Names and properties of figures"
       },
       {  
          "source":"Factors, divisibility rules, GCF/LCM (no variables)",
@@ -679,19 +1922,15 @@
          "target":"Similarity, scaling, and shape transformations"
       },
       {  
-         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "source":"Names and properties of figures",
          "target":"Similarity, scaling, and shape transformations"
-      },
-      {  
-         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
-         "target":"Congruence"
       },
       {  
          "source":"Variables, linear expressions, and solving linear equations",
          "target":"Logic and proofs"
       },
       {  
-         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "source":"Names and properties of figures",
          "target":"Lines and angles"
       },
       {  
@@ -699,15 +1938,11 @@
          "target":"Lines and angles"
       },
       {  
-         "source":"Congruence",
-         "target":"Lines and angles"
-      },
-      {  
          "source":"Logic and proofs",
          "target":"Lines and angles"
       },
       {  
-         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "source":"Names and properties of figures",
          "target":"Triangles"
       },
       {  
@@ -715,15 +1950,11 @@
          "target":"Triangles"
       },
       {  
-         "source":"Congruence",
-         "target":"Triangles"
-      },
-      {  
          "source":"Logic and proofs",
          "target":"Triangles"
       },
       {  
-         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "source":"Names and properties of figures",
          "target":"Quadrilaterals"
       },
       {  
@@ -731,15 +1962,11 @@
          "target":"Quadrilaterals"
       },
       {  
-         "source":"Congruence",
-         "target":"Quadrilaterals"
-      },
-      {  
          "source":"Logic and proofs",
          "target":"Quadrilaterals"
       },
       {  
-         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "source":"Names and properties of figures",
          "target":"Regular polygons"
       },
       {  
@@ -747,15 +1974,11 @@
          "target":"Regular polygons"
       },
       {  
-         "source":"Congruence",
-         "target":"Regular polygons"
-      },
-      {  
          "source":"Logic and proofs",
          "target":"Regular polygons"
       },
       {  
-         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "source":"Names and properties of figures",
          "target":"Circles"
       },
       {  
@@ -763,15 +1986,11 @@
          "target":"Circles"
       },
       {  
-         "source":"Congruence",
-         "target":"Circles"
-      },
-      {  
          "source":"Logic and proofs",
          "target":"Circles"
       },
       {  
-         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "source":"Names and properties of figures",
          "target":"3D solids and polyhedra"
       },
       {  
@@ -779,19 +1998,15 @@
          "target":"3D solids and polyhedra"
       },
       {  
-         "source":"Congruence",
-         "target":"3D solids and polyhedra"
-      },
-      {  
          "source":"Logic and proofs",
          "target":"3D solids and polyhedra"
       },
       {  
-         "source":"Names and properties of figures (e.g. perimeter, area, convex vs. concave)",
+         "source":"Names and properties of figures",
          "target":"Other geometry"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Basic trigonometric functions and ratios"
       },
       {  
@@ -863,7 +2078,7 @@
          "target":"Extrema and critical points"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Approximating area under curves (e.g. trapezoids, Simpson's rule)"
       },
       {  
@@ -884,27 +2099,27 @@
       },
       {  
          "source":"Lines and angles",
-         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+         "target":"Solids/surfaces of integration"
       },
       {  
          "source":"Triangles",
-         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+         "target":"Solids/surfaces of integration"
       },
       {  
          "source":"Quadrilaterals",
-         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+         "target":"Solids/surfaces of integration"
       },
       {  
          "source":"Circles",
-         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+         "target":"Solids/surfaces of integration"
       },
       {  
          "source":"3D solids and polyhedra",
-         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+         "target":"Solids/surfaces of integration"
       },
       {  
          "source":"Antiderivatives and integrals",
-         "target":"Solids and surfaces of integration (e.g. disks, washers)"
+         "target":"Solids/surfaces of integration"
       },
       {  
          "source":"Antiderivatives and integrals",
@@ -931,7 +2146,7 @@
          "target":"Other calculus"
       },
       {  
-         "source":"Decimals, fractions, ratios, and proportions (e.g. units, percentages)",
+         "source":"Decimals, fractions, ratios, and proportions",
          "target":"Measures of center and spread"
       },
       {  
@@ -943,7 +2158,7 @@
          "target":"Permutations, combinations, probability, and expectation"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Probability distributions"
       },
       {  
@@ -955,7 +2170,7 @@
          "target":"Linear regression and correlation"
       },
       {  
-         "source":"Function properties (e.g. definition of a function, one-to-one/onto, even/odd, domain/range, inverses, composites, direct/inverse variation, piecewise, continuity/interval notation)",
+         "source":"Function definition, properties, and operations",
          "target":"Linear regression and correlation"
       },
       {  
